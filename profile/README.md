@@ -1,12 +1,12 @@
 
-# 🚀 Elon Stark Technology
+# Elon Stark Technology
 
 **Innovating with AI & Automation.**  
 Scalable, Impact-Driven Software Solutions for a Smarter Tomorrow.
 
 ---
 
-## 🧠 About Us
+## About Us
 
 At **Elon Stark Technology**, we merge bold ideas with powerful code. Our mission is to create custom AI and software solutions that solve real-world problems, drive business growth, and scale seamlessly. Whether you're a startup, enterprise, or solo innovator — we help you build smarter, faster, and better.
 
