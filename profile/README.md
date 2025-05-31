@@ -39,11 +39,6 @@ At **Elon Stark Technology**, we merge bold ideas with powerful code. Our missio
 - CI/CD pipelines and containerization (Docker, Kubernetes)
 - Serverless and scalable cloud deployments
 
-### 🛡️ Cybersecurity & Data Privacy
-- Security audits and compliance checks
-- End-to-end encryption and data protection
-- Secure software development practices
-
 ### 📊 Data Analytics & Dashboards
 - Real-time dashboards and business intelligence
 - Custom reports and KPIs for informed decision-making
