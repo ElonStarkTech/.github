@@ -12,7 +12,7 @@ At **Elon Stark Technology**, we merge bold ideas with powerful code. Our missio
 
 ---
 
-## 💼 Our Services
+## Our Services
 
 ### 🌐 Custom Software Development
 - Full-stack web and mobile applications
@@ -56,7 +56,7 @@ At **Elon Stark Technology**, we merge bold ideas with powerful code. Our missio
 
 ---
 
-## 🌍 Who We Work With
+## Who We Work With
 
 - Startups looking to launch fast
 - Enterprises aiming to modernize
@@ -65,7 +65,7 @@ At **Elon Stark Technology**, we merge bold ideas with powerful code. Our missio
 
 ---
 
-## 🤝 Let's Build the Future Together
+## Let's Build the Future Together 🤝
 
 Have an idea, product, or challenge?  
 **📩 Contact us to innovate together.**  
